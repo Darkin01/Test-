@@ -1,0 +1,4 @@
+this is the third file which i want to git status and add to git
+asaf pp
+hi hi hi 
+I have added this code.
