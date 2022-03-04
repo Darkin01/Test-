@@ -1,7 +1,0 @@
-lol
-<<<<<<< HEAD
-S
-=======
-hehe
->>>>>>> afcab4985b9435cdbb91987e069cc56f0d548207
-changed 
