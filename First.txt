@@ -3,5 +3,4 @@ Now its being commited again and checking if it is working or not
 sdfa
 modifying the file
 again modifying
-for new branch
-writing for new branch
+for new develop branch
