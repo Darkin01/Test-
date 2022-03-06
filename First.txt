@@ -3,3 +3,10 @@ Now its being commited again and checking if it is working or not
 sdfa
 modifying the file
 again modifying
+<<<<<<< HEAD
+for new branch
+added this to main
+=======
+for new develop branch
+>>>>>>> develop
+this is the changes has done in the branch
